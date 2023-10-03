@@ -5,7 +5,7 @@
 
 <h3 align="left">Check out my web portfolio:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brandojulca" target="blank">Click Here!</a>
+<a href="https://brandojulca.github.io/index.html" target="blank">Click Here!</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
