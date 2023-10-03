@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandojulca&label=Profile%20views&color=0e75b6&style=flat" alt="brandojulca" /> </p>
 
+<h3 align="left">Check out my web portfolio:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/brandojulca" target="blank">Click Here!</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brandojulca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandojulca" height="30" width="40" /></a>
